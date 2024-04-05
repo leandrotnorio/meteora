@@ -1,0 +1,31 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+#cor-do-botao {
+    background-color: #9353FF;
+    
+}
+
+#cor-verde {
+    color: #DAFF01;
+    ;
+}
+
+#button-addon2 {
+    background-color: #9353FF;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
